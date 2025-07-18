@@ -1,8 +1,8 @@
-Welcome to Emotional AI Color Palette Generator.
+## Welcome to Emotional AI Color Palette Generator.
 
-Tech Stack used: React.js, Node.js, Express, Tailwind CSS, PostgreSQL
+# Tech Stack used: React.js, Node.js, Express, Tailwind CSS, PostgreSQL
 
-Steps to run the project
+# Steps to run the project
 0. Install all the dependencies (in both frontend and backend).
 1. Navigate to frontend directory.
 2. Run npm run dev on console. This will run the frontend part of the project on port 5173.
@@ -11,7 +11,7 @@ Steps to run the project
 5. This starts the backend of the project on the port 3000.
 
 
-SQL - Creation of tables in postgreSQL
+# SQL - Creation of tables in postgreSQL
 1. Creating users table
    CREATE TABLE users (
     id SERIAL PRIMARY KEY,
